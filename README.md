@@ -23,7 +23,7 @@ The application starts with a welcome page providing access to the different sec
 </p>
 
 <div style="text-align: center; margin: 20px 0;">
-    <img src="A.png" alt="Welcome Page" style="width: 75%;">
+    <img src="A.png" alt="Welcome Page" style="width: 100%;">
 </div>
 
 <h3>2. System Selection</h3>
@@ -33,7 +33,7 @@ The user can select the desired <strong>IEEE test system</strong> to be analyzed
 </p>
 
 <div style="text-align: center; margin: 20px 0;">
-    <img src="B.png" alt="System Selection" style="width: 75%;">
+    <img src="B.png" alt="System Selection" style="width: 100%;">
 </div>
 
 <h3>3. Power Flow Analysis</h3>
@@ -43,7 +43,7 @@ The application calculates the bus admittance matrix and performs the power flow
 </p>
 
 <div style="text-align: center; margin: 20px 0;">
-    <img src="C.png" alt="Power Flow Analysis" style="width: 75%;">
+    <img src="C.png" alt="Power Flow Analysis" style="width: 100%;">
 </div>
 
 <h3>4. System Visualization</h3>
@@ -53,7 +53,7 @@ The resulting system can be visualized, including the buses and the admittance v
 </p>
 
 <div style="text-align: center; margin: 20px 0;">
-    <img src="D.png" alt="System Visualization" style="width: 75%;">
+    <img src="D.png" alt="System Visualization" style="width: 100%;">
 </div>
 
 <h3>5. Optimal Power Flow</h3>
@@ -63,5 +63,5 @@ Finally, the application performs the <strong>Optimal Power Flow (OPF)</strong> 
 </p>
 
 <div style="text-align: center; margin: 20px 0;">
-    <img src="E.png" alt="OPF Results" style="width: 75%;">
+    <img src="E.png" alt="OPF Results" style="width: 100%;">
 </div>
