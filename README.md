@@ -10,3 +10,49 @@ A <strong>PyQt5 application</strong> for analyzing IEEE test systems. The user s
     <img src="10.png" alt="OPF Application" style="width: 100%; max-width: 1000px;">
     <img src="11.png" alt="OPF Application" style="width: 100%; max-width: 1000px;">
 </div>
+<h2>Application Overview</h2>
+
+<p>
+The <strong>PyQt5 application</strong> provides a complete workflow for power flow analysis and Optimal Power Flow (OPF) using standard IEEE test systems.
+</p>
+
+<h3>1. Welcome and Information Pages</h3>
+
+<p>
+The application starts with a welcome page, followed by an information page accessible from the navigation bar, introducing the main power flow methods.
+</p>
+
+<div style="text-align: center;">
+    <img src="A.png" alt="Welcome Page" style="width: 48%;">
+    <img src="B.png" alt="Information Page" style="width: 48%;">
+</div>
+
+<h3>2. System Selection and Power Flow</h3>
+
+<p>
+The user selects an <strong>IEEE test system</strong> and chooses the desired power flow method: <strong>Gauss-Seidel, Newton-Raphson, or Fast Decoupled</strong>.
+</p>
+
+<div style="text-align: center; margin: 20px 0;">
+    <img src="C.png" alt="System Selection and Power Flow" style="width: 75%;">
+</div>
+
+<h3>3. Power Flow Results</h3>
+
+<p>
+The application calculates the bus admittance matrix and performs the selected power flow analysis. The resulting system can be visualized, including the admittance values of the lines connecting the buses.
+</p>
+
+<div style="text-align: center; margin: 20px 0;">
+    <img src="D.png" alt="Power Flow Results" style="width: 75%;">
+</div>
+
+<h3>4. Optimal Power Flow</h3>
+
+<p>
+The application then performs the <strong>Optimal Power Flow (OPF)</strong> using the <strong>Simulated Annealing</strong> algorithm. Other optimization methods, such as <strong>PSO</strong> and the <strong>Lambda method</strong>, are also proposed.
+</p>
+
+<div style="text-align: center; margin: 20px 0;">
+    <img src="E.png" alt="Optimal Power Flow" style="width: 75%;">
+</div>
