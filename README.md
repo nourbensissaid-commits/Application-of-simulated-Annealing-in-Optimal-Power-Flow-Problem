@@ -1,4 +1,4 @@
-<img src="Aartboard2.png" alt="Logo" style="width: 120px; display: block; margin-bottom: 20px;">
+<img src="artboard2.png" alt="Logo" style="width: 120px; display: block; margin-bottom: 20px;">
 
 <h2>Optimal Power Flow Using Simulated Annealing</h2>
 
